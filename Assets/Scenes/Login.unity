@@ -256,6 +256,10 @@ PrefabInstance:
       propertyPath: m_text
       value: Hello Again!
       objectReference: {fileID: 0}
+    - target: {fileID: 4093829609305305287, guid: a71d88aaba30e4848abf9d56e43da13b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e1de54aa46ecf4b42b82fe94f8b77ebc, type: 3}
     - target: {fileID: 4366028288252060398, guid: a71d88aaba30e4848abf9d56e43da13b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -465
